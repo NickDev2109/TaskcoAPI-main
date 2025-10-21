@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "apis": [
+    {
+      "identifier": "id-analyzer-v2",
+      "source": "@id-analyzer-v2/v2.0#7qag7c2mm3e9i5cs",
+      "integrity": "sha512-3Kd2CX7AUyDPWk0NhTBWBXK5OwxYkDLZTua9hUKQRKVa3cvWvaUlUB/HIAHlNzNN9YIF9YeePFQ1jQb1xoQcwg==",
+      "installerVersion": "6.1.3"
+    }
+  ]
+}
